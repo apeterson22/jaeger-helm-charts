@@ -3,7 +3,34 @@ entries:
   jaeger:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-18T03:40:08.339170119Z"
+    created: 2020-01-23T11:24:53.347795722-05:00
+    description: A Jaeger Helm chart for Kubernetes
+    digest: ba97273700ef390dc2423cc7ef40f43685620ad8ec4e4aa3558d8043d878e595
+    home: https://jaegertracing.io
+    icon: https://camo.githubusercontent.com/afa87494e0753b4b1f5719a2f35aa5263859dffb/687474703a2f2f6a61656765722e72656164746865646f63732e696f2f656e2f6c61746573742f696d616765732f6a61656765722d766563746f722e737667
+    keywords:
+    - jaeger
+    - opentracing
+    - tracing
+    - instrumentation
+    maintainers:
+    - email: david.vonthenen@dell.com
+      name: dvonthenen
+    - email: michael.lorant@fairfaxmedia.com.au
+      name: mikelorant
+    - email: naseem@transit.app
+      name: naseemkullah
+    - email: pavel.nikolov@fairfaxmedia.com.au
+      name: pavelnikolov
+    name: jaeger
+    sources:
+    - https://hub.docker.com/u/jaegertracing/
+    urls:
+    - https://github.com/appian/jaeger-helm-charts/releases/download/v0.18.6/jaeger-0.18.6.tgz
+    version: 0.18.6
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: 2020-01-18T03:40:08.339170119Z
     description: A Jaeger Helm chart for Kubernetes
     digest: 8477ec4faf8e84c2f26ced9e8f5a490904549e99efb658bafd567a2d0f21f8c8
     home: https://jaegertracing.io
@@ -30,7 +57,7 @@ entries:
     version: 0.18.5
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-16T06:39:58.516808758Z"
+    created: 2020-01-16T06:39:58.516808758Z
     description: A Jaeger Helm chart for Kubernetes
     digest: 2b30715c448b1daa3fe2db05547ae79f28e65206a333086151222d667d681ff9
     home: https://jaegertracing.io
@@ -57,7 +84,7 @@ entries:
     version: 0.18.4
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-09T15:14:38.685925364Z"
+    created: 2020-01-09T15:14:38.685925364Z
     description: A Jaeger Helm chart for Kubernetes
     digest: e9664be6e0b2958c59d61782920b59308db62093e0763fe648a744e7f139717b
     home: https://jaegertracing.io
@@ -84,7 +111,7 @@ entries:
     version: 0.18.3
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2019-12-30T02:35:10.096209674Z"
+    created: 2019-12-30T02:35:10.096209674Z
     description: A Jaeger Helm chart for Kubernetes
     digest: ce4acf1e2fc904def79636c9a865d198d51193c60e5ca69cfc7beb37b4a7da7d
     home: https://jaegertracing.io
@@ -111,7 +138,7 @@ entries:
     version: 0.18.2
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2019-12-30T01:54:10.973232157Z"
+    created: 2019-12-30T01:54:10.973232157Z
     description: A Jaeger Helm chart for Kubernetes
     digest: 88b18887ed1c85e2e89d7b1759467645ca26c1696f82590161ef9e839afcd191
     home: https://jaegertracing.io
@@ -138,7 +165,7 @@ entries:
     version: 0.18.1
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2019-12-30T01:40:11.596518804Z"
+    created: 2019-12-30T01:40:11.596518804Z
     description: A Jaeger Helm chart for Kubernetes
     digest: 13cfd26e67207c9447602848e6a723f9dbead66a31b9698d194f781a2e6eb8d4
     home: https://jaegertracing.io
@@ -165,7 +192,7 @@ entries:
     version: 0.18.0
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2019-12-23T05:26:52.314530683Z"
+    created: 2019-12-23T05:26:52.314530683Z
     description: A Jaeger Helm chart for Kubernetes
     digest: 4562dff7f90f37fb4ed2d7f24d472298def186e0d605e0e75e319f10509874fa
     home: https://jaegertracing.io
@@ -192,7 +219,7 @@ entries:
     version: 0.17.9
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2019-12-22T03:45:13.880111003Z"
+    created: 2019-12-22T03:45:13.880111003Z
     description: A Jaeger Helm chart for Kubernetes
     digest: 49c2f26d351113908fc887f738fcb28b9b41dfe88dc46f2c0974f7f88b2ce8c9
     home: https://jaegertracing.io
@@ -219,7 +246,7 @@ entries:
     version: 0.17.8
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2019-12-22T03:10:01.21221405Z"
+    created: 2019-12-22T03:10:01.21221405Z
     description: A Jaeger Helm chart for Kubernetes
     digest: eadf25d7a535b10e95c251f5d0228b50c4e29ec3686c82a9b41b3ae52a31d7d3
     home: https://jaegertracing.io
@@ -246,7 +273,7 @@ entries:
     version: 0.17.7
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2019-12-18T16:48:17.675568259Z"
+    created: 2019-12-18T16:48:17.675568259Z
     description: A Jaeger Helm chart for Kubernetes
     digest: dabe758b28c85e99b008f318705a2c4bfaa756b4d43c074cc33847ed0256310e
     home: https://jaegertracing.io
@@ -273,7 +300,7 @@ entries:
     version: 0.17.6
   - apiVersion: v1
     appVersion: 1.15.1
-    created: "2019-12-18T15:50:03.111915213Z"
+    created: 2019-12-18T15:50:03.111915213Z
     description: A Jaeger Helm chart for Kubernetes
     digest: 119859aee7258bde807fc1a337210af92c749db83a0489d5ef9bc8e347d6209f
     home: https://jaegertracing.io
@@ -300,7 +327,7 @@ entries:
     version: 0.17.5
   - apiVersion: v1
     appVersion: 1.15.1
-    created: "2019-12-17T22:14:43.260071975Z"
+    created: 2019-12-17T22:14:43.260071975Z
     description: A Jaeger Helm chart for Kubernetes
     digest: 02e32ce68fd4dc7212499e9e59fb549f7901a6a2606c49d69febdfd6f3cb7669
     home: https://jaegertracing.io
@@ -327,7 +354,7 @@ entries:
     version: 0.17.4
   - apiVersion: v1
     appVersion: 1.15.1
-    created: "2019-12-17T03:38:29.454005043Z"
+    created: 2019-12-17T03:38:29.454005043Z
     description: A Jaeger Helm chart for Kubernetes
     digest: 1d29dc5336c3cf4dd09768a77570ebcb3fb87495573cae8a2f295da231a46b79
     home: https://jaegertracing.io
@@ -355,7 +382,7 @@ entries:
   jaeger-operator:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-18T03:37:05.660783946Z"
+    created: 2020-01-18T03:37:05.660783946Z
     description: jaeger-operator Helm chart for Kubernetes
     digest: 5247ad6831e04564e1031c3592c1f36e59df114243fa003c2c38b5e41db15cb4
     home: https://www.jaegertracing.io/
@@ -371,7 +398,7 @@ entries:
     version: 2.12.4
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2019-12-18T16:48:17.794954889Z"
+    created: 2019-12-18T16:48:17.794954889Z
     description: jaeger-operator Helm chart for Kubernetes
     digest: 78914d0212e8104d695a5fd7cbf85aeb4735431fef3057c1b1a29d5a3d30b9f7
     home: https://www.jaegertracing.io/
@@ -387,7 +414,7 @@ entries:
     version: 2.12.3
   - apiVersion: v1
     appVersion: 1.15.1
-    created: "2019-12-17T22:18:10.694763646Z"
+    created: 2019-12-17T22:18:10.694763646Z
     description: jaeger-operator Helm chart for Kubernetes
     digest: 770034a915b6445cd06befa17b0eaec7f663027d3c63900fbd3ef42a07de2f83
     home: https://www.jaegertracing.io/
@@ -403,7 +430,7 @@ entries:
     version: 2.12.2
   - apiVersion: v1
     appVersion: 1.15.1
-    created: "2019-12-17T03:38:29.573409952Z"
+    created: 2019-12-17T03:38:29.573409952Z
     description: jaeger-operator Helm chart for Kubernetes
     digest: 085b165faf70e7370309f8bbc2a0a40089701a77ddc5dae1e68f668275a293fd
     home: https://www.jaegertracing.io/
@@ -417,4 +444,4 @@ entries:
     urls:
     - https://github.com/jaegertracing/helm-charts/releases/download/jaeger-operator-2.12.1/jaeger-operator-2.12.1.tgz
     version: 2.12.1
-generated: "2019-12-17T03:38:29.332402135Z"
+generated: 2020-01-22T16:59:55.162456455-05:00
